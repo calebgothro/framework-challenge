@@ -1,4 +1,8 @@
-/* Add screen styles below */
-a.active {
-    font-weight: bold;
+#coachprofile {
+    height: auto;
+    width: 200px;
+}
+
+#intro {
+    padding-left: 10px;
 }
